@@ -1,5 +1,7 @@
 # Example Docker Compose project for Telegraf, InfluxDB and Grafana
 
+# edited for my own purpose to run on a proxmox/portainer configuration.
+
 This an example project to show the TIG (Telegraf, InfluxDB and Grafana) stack.
 
 ![Example Screenshot](./example.png?raw=true "Example Screenshot")
